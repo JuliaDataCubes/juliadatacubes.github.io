@@ -1,4 +1,7 @@
-# Featured Projects
+# Julia Data Cubes
+
+
+## Featured Projects
 
 - [YAXArrays.jl](https://github.com/JuliaDataCubes/YAXArrays.jl)
 - [PyramidScheme.jl](https://github.com/JuliaDataCubes/PyramidScheme.jl)
