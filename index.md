@@ -19,3 +19,7 @@
 - [DGGS.jl](https://github.com/danlooo/DGGS.jl)
 - [DiskArrays.jl](https://github.com/meggart/DiskArrays.jl)
 - [Zarr.jl](https://github.com/JuliaIO/Zarr.jl)
+
+<hr>
+[Imprint](https://www.bgc-jena.mpg.de/2299/imprint)
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
